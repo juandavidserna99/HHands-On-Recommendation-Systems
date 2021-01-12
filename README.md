@@ -1,5 +1,8 @@
 # Hands-On-Recommendation-Systems
 ### How to create recommender systems for sales (especially E-Commerce) like Amazon does it and recommender movies like Netflix does it.
+
+What's on the agenda?
+
 1. Getting Started with Recommender Systems.
 2. Manipulating Data with the Pandas Library.
 3. Building an IMDB Top 250 Clone with Pandas.
